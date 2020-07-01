@@ -3,7 +3,7 @@ cz
 1. Understand the concept of AR Lifecycle methods
 2. Use `before_save`, `before_create`, and `before_validation`
 3. Understand when to use `before_validation` vs. `before_save`
-
+ v zc 
 ## Callbacks
 
 Now that we are integrating `ActiveRecord` into Rails, we should note that
